@@ -30,5 +30,3 @@ All three VMs run under VMware Workstation on a shared NAT subnet (`192.168.179.
 - Configured real-time File Integrity Monitoring (Syscheck) on the Linux agent, monitoring `/home`
 - Validated FIM by creating/modifying a test file and confirming `added`/`modified` alerts in the dashboard
 - Verified live security events from the Windows agent via the Wazuh Threat Hunting dashboard, including automatic PCI DSS compliance mapping
-
-## Repository Structure
